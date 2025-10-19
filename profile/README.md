@@ -1,27 +1,27 @@
 # SkyExplain
 
-*SkyExplain* GitHub organization — a small but growing hub for machine learning cosmological model classification with interpretable data analysis.  
+**SkyExplain** GitHub organization — a growing hub for **machine learning cosmological model classification** with **interpretable data analysis**.  
 
-We are developing open-source tools to simulate the cosmological datasets, apply neural networks to classify cosmological models and minimal extensions, and provide interpretable insights about the results.  
+We develop open-source tools to **simulate cosmological datasets**, **classify models with neural networks**, and **extract interpretable insights** from the results.  
 
-## 📂 Repositories
+## Repositories
 
-- **[SkySimulation](https://github.com/skyexplain/SkySimulation)** – High-fidelity sky simulations for cosmological observations.  
-- **[SkyNeuralNets](https://github.com/skyexplain/SkyNeuralNets)** – Machine learning neural network architectures.  
-- **[SkyInterpret](https://github.com/skyexplain/SkyInterpret)** – Tools for interpretable machine learning and artificial intelligence results, for visualization of model outputs.  
+- **[🌌 SkySimulation](https://github.com/skyexplain/SkySimulation)** – High-fidelity sky simulations for cosmological observations.  
+- **[🤖 SkyNeuralNets](https://github.com/skyexplain/SkyNeuralNets)** – Machine learning neural network architectures.  
+- **[📊 SkyInterpret](https://github.com/skyexplain/SkyInterpret)** – Tools for interpretable ML and AI results; visualize model outputs effectively.  
 
-You can browse all our repositories [here](https://github.com/skyexplain/repositories).
+Browse all our repositories [here](https://github.com/skyexplain/repositories).
 
-## 💬 Communication
+## Communication
 
-- **Issues** – Report bugs or ask technical questions.  
-- **Discussions** – Broader conversations and brainstorming.  
+- **🐛 Issues** – Report bugs or ask technical questions.  
+- **💡 Discussions** – Broader conversations, ideas, and brainstorming.  
 
-## 📜 Licensing
+## Licensing
 
-All SkyExplain projects use the MIT license by default. Please refer to each repository for specific licensing details.
+- 📜 All SkyExplain projects use the **MIT license** by default. Please refer to each repository for specific licensing details.
 
-## ✨ Support SkyExplain
+## Support SkyExplain
 
 - 🌟 **Star** our repositories  
 - 💬 **Spread the word**  
