@@ -1,4 +1,4 @@
-# skyexplain
+# SkyExplain
 
 *SkyExplain* GitHub organization — a small but growing hub for machine learning cosmological model classification with interpretable data analysis.  
 
