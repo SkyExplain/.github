@@ -24,4 +24,4 @@ Browse all our repositories [here](https://github.com/skyexplain/repositories).
 ## Support SkyExplain
 
 - 🌟 **Star** our repositories  
-- 💬 **Spread the word**  
+- 💬 Spread the word  
