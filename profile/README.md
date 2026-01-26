@@ -10,7 +10,7 @@ We develop open-source tools to **simulate cosmological datasets**, **classify m
 - **[🤖 SkyNeuralNets](https://github.com/skyexplain/SkyNeuralNets)** – Machine learning neural network architectures.  
 - **[📊 SkyInterpret](https://github.com/skyexplain/SkyInterpret)** – Tools for interpretable ML and AI results; visualize model outputs effectively.  
 
-Browse all our repositories [here](https://github.com/skyexplain/repositories).
+Browse all our repositories [here](https://github.com/orgs/SkyExplain/repositories).
 
 ## Communication
 
