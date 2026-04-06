@@ -8,7 +8,10 @@ We develop open-source tools to **simulate cosmological datasets**, **classify m
 
 - **[SkySimulation](https://github.com/skyexplain/SkySimulation)** – High-fidelity sky simulations for cosmological observations.  
 - **[SkyNeuralNets](https://github.com/skyexplain/SkyNeuralNets)** – Machine learning neural network architectures.  
-- **[SkyInterpret](https://github.com/skyexplain/SkyInterpret)** – Tools for interpretable ML and AI results; visualize model outputs effectively.  
+- **[SkyInterpret](https://github.com/skyexplain/SkyInterpret)** – Tools for interpretable ML and AI results; visualize model outputs effectively.
+- **[Sandbox](https://github.com/skyexplain/Sandbox))** – Tutorials and examples.
+
+- 
 
 Browse all our repositories [here](https://github.com/orgs/SkyExplain/repositories).
 
