@@ -11,8 +11,6 @@ We develop open-source tools to **simulate cosmological datasets**, **classify m
 - **[SkyInterpret](https://github.com/skyexplain/SkyInterpret)** – Tools for interpretable ML and AI results; visualize model outputs effectively.
 - **[Sandbox](https://github.com/skyexplain/Sandbox))** – Tutorials and examples.
 
-- 
-
 Browse all our repositories [here](https://github.com/orgs/SkyExplain/repositories).
 
 ## Communication
